@@ -13,7 +13,7 @@ def get_favorite_vegetable():
     # write your code here.
     X = input("What is your favorite vegetable?\n")
     print("Interesting! I also love " + X + "!")
-get_favorite_vegetable()
+
 
 def get_favorite_number():
     """
@@ -24,7 +24,7 @@ def get_favorite_number():
     # write your code here.
     X = input("What is your favorite number?\n")
     print("Interesting! I also love " + X + "!")
-get_favorite_number()
+
 
 def get_name_and_zodiac_sign():
     """
@@ -37,7 +37,7 @@ def get_name_and_zodiac_sign():
     X = input("What is your name?\n")
     Y = input("What is your zodiac sign?\n")
     print("Interesting! My name is also " + X +"," + " and I'm also a " + Y + "!")
-get_name_and_zodiac_sign()
+
 
 def get_name_and_age():
     """
@@ -50,4 +50,4 @@ def get_name_and_age():
     X = input("What is your name?\n")
     Y = input("How old are you?\n")
     print("Interesting! My name is also " + X + "," + " and I'm also " + Y +" years old!")
-get_name_and_age()
+
